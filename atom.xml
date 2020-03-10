@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmbtfund.github.io</id>
     <title>RMBT FUND</title>
-    <updated>2020-03-10T08:04:42.524Z</updated>
+    <updated>2020-03-10T08:05:46.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rmbtfund.github.io"/>
     <link rel="self" href="https://rmbtfund.github.io/atom.xml"/>
@@ -194,18 +194,6 @@ Mr. Yu    三大交易所，十万币圈社群，创业。</p>
 <p>RMBT RESERVE BOARD<br>
 北京<br>
 2019 年10月</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[认知是人的第一需求]]></title>
-        <id>https://rmbtfund.github.io/post/ren-zhi-shi-ren-de-di-yi-xu-qiu/</id>
-        <link href="https://rmbtfund.github.io/post/ren-zhi-shi-ren-de-di-yi-xu-qiu/">
-        </link>
-        <updated>2020-03-09T02:32:38.000Z</updated>
-        <content type="html"><![CDATA[<p>##认知是人的第一需求。</p>
-<p>##认知的三重套嵌结构</p>
-<p>##金钱是反应人认识的通用介质。</p>
-<p>##人的社会网络与智能机制同构</p>
 ]]></content>
     </entry>
 </feed>
