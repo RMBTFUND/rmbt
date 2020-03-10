@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmbtfund.github.io</id>
     <title>RMBT FUND</title>
-    <updated>2020-03-10T15:30:32.052Z</updated>
+    <updated>2020-03-10T15:38:32.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rmbtfund.github.io"/>
     <link rel="self" href="https://rmbtfund.github.io/atom.xml"/>
@@ -16,19 +16,16 @@
         <link href="https://rmbtfund.github.io/post/rmbt-wen-ding-bi-ji-hua/">
         </link>
         <updated>2020-03-10T04:56:52.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>
-<p>RMBT<br>
-<img src="https://rmbtfund.github.io/post-images/1583827008746.png" alt="" loading="lazy"><br>
-1RMBT = 1CNY。<br>
-RMBT，一个人民币稳定币，由RMBT FUND 对人民币法币进行1:1承兑的一种数字资产。红蓝色取自人民币纸币的色彩元素，倒五角星接近人民币符号。RMBT英文解释是Recognize Mind Blockchain Token，中文含义是识别心智的区块链代币，读心识人之通宝。<br>
-<img src="https://rmbtfund.github.io/post-images/1583836556200.png" alt="你好" loading="lazy"><br>
+        <content type="html"><![CDATA[<p>#1.	RMBT</p>
+<div align=center> 
+![](https://rmbtfund.github.io/post-images/1583827008746.png)
+1RMBT = 1CNY。
+RMBT，一个人民币稳定币，由RMBT FUND 对人民币法币进行1:1承兑的一种数字资产。红蓝色取自人民币纸币的色彩元素，倒五角星接近人民币符号。RMBT英文解释是Recognize Mind Blockchain Token，中文含义是识别心智的区块链代币，读心识人之通宝。
+<p><img src="https://rmbtfund.github.io/post-images/1583836556200.png" alt="" loading="lazy"><br>
 logo设计灵感来自于柏拉图立方体中的正二十面体，由20个正三角形围成。<br>
 除了在理论上存在，有直观的透视结构，由于稳定的结构，自然界中多种腺病毒采取此种形态生存，象征着顽强旺盛的生命力、适应力和扩张性。</p>
-</li>
-<li>
-<p>RMBT 交易所</p>
-</li>
+<ol start="2">
+<li>RMBT 交易所</li>
 </ol>
 <p>RMBT将作为一个数字资产交易所来独立运营。<br>
 定位为全球领先的具备跨链功能的去中心化交易所。<br>
