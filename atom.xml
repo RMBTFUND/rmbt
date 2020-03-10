@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmbtfund.github.io</id>
     <title>RMBT FUND</title>
-    <updated>2020-03-10T13:14:04.411Z</updated>
+    <updated>2020-03-10T13:19:10.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rmbtfund.github.io"/>
     <link rel="self" href="https://rmbtfund.github.io/atom.xml"/>
@@ -35,8 +35,7 @@ logo设计灵感来自于柏拉图立方体中的正二十面体，由20个正�
 RMBT交易所目前尚未独立融资和注册，意向注册地为瑞士、香港和新加坡。<br>
 RMBT FUND将成为RMBT交易所的控股或全资股东。</p>
 <p>'Rmbt.co'，'rmbt.io'，'rmbt.ai'是由RMBT FUND董事注册并赠予RMBT FUND独家运营的域名。<br>
-![RMBT交易所网页版效果图][a]</p>
-<p><a href="https://rmbtfund.github.io/post-images/1583840350679.png">a</a></p>
+<img src="https://rmbtfund.github.io/post-images/1583840350679.png" alt="RMBT交易所网页版效果图" loading="lazy"></p>
 <ol start="3">
 <li>RMBT FUND</li>
 </ol>
