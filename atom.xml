@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmbtfund.github.io</id>
     <title>RMBT FUND</title>
-    <updated>2020-03-10T15:01:23.083Z</updated>
+    <updated>2020-03-10T15:14:09.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rmbtfund.github.io"/>
     <link rel="self" href="https://rmbtfund.github.io/atom.xml"/>
@@ -38,7 +38,7 @@ RMBT FUND将成为RMBT交易所的控股或全资股东。</p>
  <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src=(https://rmbtfund.github.io/post-images/1583840350679.png)>
+    src="(https://rmbtfund.github.io/post-images/1583840350679.png)">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
