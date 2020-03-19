@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmbtfund.github.io</id>
     <title>RMBT FUND</title>
-    <updated>2020-03-19T02:24:51.597Z</updated>
+    <updated>2020-03-19T02:40:03.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rmbtfund.github.io"/>
     <link rel="self" href="https://rmbtfund.github.io/atom.xml"/>
@@ -29,6 +29,14 @@ RMBT，一个人民币稳定币，由RMBT FUND 对人民币法币进行1:1承兑
 <p><img src="https://rmbtfund.github.io/post-images/1583836556200.png" alt="" loading="lazy"><br>
 logo设计灵感来自于柏拉图立方体中的正二十面体，由20个正三角形围成。<br>
 除了在理论上存在，有直观的透视结构，由于稳定的结构，自然界中多种腺病毒采取此种形态生存，象征着顽强旺盛的生命力、适应力和扩张性。</p>
+<p>RMBT的使命是见证人心智水平的提升。主动提供高智能的货币。<br>
+RMBT的内在价值，初始阶段以配置人民币（短期国债+短期存款）为主，之后会参考成长性和规模，配置其他数字货币（Libra、USDT等）。<br>
+RMBT将率先提供利率。为账户持有人提供利率而无须存款。<br>
+RMBT将提供彩金。账户持有人将有中奖机会而无需购买彩票。<br>
+RMBT将提供有竞争力的低手续费转让，对会员采取0手续费转账，不论金额大小。</p>
+<p>RMBT最终属于社区，是一种货币为表象的开源软件平台。<br>
+RMBT的方法论，参看本站另文，《认知是人的第一需求》。<br>
+RMBT的组织架构设计，遵循其方法论，中心化和分布式相互套嵌，避免工程领域的失控，又避免被任何人的情绪所控制。</p>
 <h1 id="2rmbt-交易所">2.	RMBT 交易所</h1>
 <p>RMBT将作为一个数字资产交易所来独立运营。<br>
 定位为全球领先的具备跨链功能的去中心化交易所。<br>
@@ -193,8 +201,7 @@ Mr. Zhou  科大本硕，全栈，公链CTO。<br>
 Mr. Jiang  经济学家，货币领域专著。<br>
 Mr. Wang  金融高管，香港持牌基金管理人，投资。<br>
 Mr. Gao  部队院校密码学博士，商品期货交易所，创业。<br>
-Mr. Andy  211金融本硕，500强，多次创业，投资。<br>
-Mr. Yu    三大交易所，十万币圈社群，创业。</p>
+Mr. Andy  211金融本硕，500强，多次创业，投资。</p>
 <ol start="12">
 <li>商业规划<br>
 规划由董事会作出，并保留有所调整的权利，招股意向不代表任何对赌、承诺和合同要约。</li>
