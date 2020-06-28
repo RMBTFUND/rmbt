@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmbtfund.github.io</id>
     <title>RMBT FUND</title>
-    <updated>2020-06-28T08:08:53.199Z</updated>
+    <updated>2020-06-28T08:13:25.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rmbtfund.github.io"/>
     <link rel="self" href="https://rmbtfund.github.io/atom.xml"/>
@@ -229,7 +229,7 @@ Recognize Mind By Token</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[认识是人的第一需求 - 测试]]></title>
+        <title type="html"><![CDATA[认识是人的第一需求 ]]></title>
         <id>https://rmbtfund.github.io/post/ren-shi-shi-ren-de-di-yi-xu-qiu-ce-shi/</id>
         <link href="https://rmbtfund.github.io/post/ren-shi-shi-ren-de-di-yi-xu-qiu-ce-shi/">
         </link>
