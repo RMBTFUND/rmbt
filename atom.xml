@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmbtfund.github.io</id>
     <title>RMBT FUND</title>
-    <updated>2020-06-29T02:30:11.032Z</updated>
+    <updated>2020-06-29T02:31:40.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rmbtfund.github.io"/>
     <link rel="self" href="https://rmbtfund.github.io/atom.xml"/>
@@ -305,7 +305,7 @@ Recognize Mind By Token</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[认识是人的第一需求 ]]></title>
+        <title type="html"><![CDATA[认知是人的第一需求 ]]></title>
         <id>https://rmbtfund.github.io/post/ren-shi-shi-ren-de-di-yi-xu-qiu-ce-shi/</id>
         <link href="https://rmbtfund.github.io/post/ren-shi-shi-ren-de-di-yi-xu-qiu-ce-shi/">
         </link>
@@ -361,14 +361,12 @@ MV=PT，费雪方程，是经济学界的质能方程，代表了货币的数量
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[认知是人的第一需求]]></title>
+        <title type="html"><![CDATA[RMBT 是个啥？]]></title>
         <id>https://rmbtfund.github.io/post/rmbt-ren-min-bi-wen-ding-bi-ji-hua/</id>
         <link href="https://rmbtfund.github.io/post/rmbt-ren-min-bi-wen-ding-bi-ji-hua/">
         </link>
         <updated>2020-06-28T00:42:01.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="1rmbt">1.	RMBT</h2>
-<figure data-type="image" tabindex="1"><img src="https://rmbtfund.github.io/post-images/1583827008746.png" alt="" loading="lazy"></figure>
-<p>RMBT，一个人民币稳定币，一种区块链通证（token），由RMBT FUND 发行。</p>
+        <summary type="html"><![CDATA[<p>RMBT，一个人民币稳定币，一种区块链通证（token），由RMBT FUND 发行。</p>
 <p>RMBT的全称是Recognize Mind Blockchain Token。这代表了RMBT FUND的世界观：token 反映了人们的心智。</p>
 <p>RMBT FUND 通过技术手段使得1枚RMBT的币值总是与市场上1元人民币所对应的购买力相当，保持固定的汇率。</p>
 <p>RMBT盯住人民币，是因为人民币有十几亿的实际用户，他们拥有以人民币计价的心理习惯，我们盯住人民币汇率，便于人民币本币假设的十几亿人拥有符合直觉的数字货币，便为了了解其他数字资产的多少和涨跌，在他们自己的脑海里建立概念。</p>
@@ -376,28 +374,10 @@ MV=PT，费雪方程，是经济学界的质能方程，代表了货币的数量
 <p>经过近10年的发展，比特币和以太坊被验证是安全的。智能合约是安全的，存在于智能合约的代币没被攻破的概率机会为不可能。未来更多的金融交换将会在以太坊上进行，就如同大部分的飞机是自动驾驶的，未来大部分的汽车也是自动驾驶的，因为手动驾驶太随意，不安全，未来只能少数人在限定区域里去玩耍。当下的金融体系，就是手动的驾驶系统，虽然它眼下还是主流，但是去中心化金融，区块链，自动交易代表未来。</p>
 <p>RMBT的底层资产的配置将会是动态的，我们会定期披露所掌握数字资产的情况，最终达到实时的动态披露。<br>
 最初的资产将会多数是USDT和ETH，RMBT自主研发的跨链技术，未来将连接央行数字货币CECP和BTC资产，帮助数字资产低阻力的流动，充分反应人类社会的价值存储和创造。</p>
-<p>RMBT的发行规模将采取按需求发行的策略。每次增发额度，不超过预期未来一年内可以兑换出的总量。如果已经发行，在一年后仍有未被兑现的总量，RMBT FUND有义务销毁待流通的token。每次增发，需要RMBT RESERVE BOARD的全体同意。因为每位理事都拥有一票否决权，且理事的人数大于3人，所以RMBT没有最终实际控制人。</p>
+<p>RMBT的发行规模将采取按需求发行的策略。每次增发额度，不超过预期未来一年内可以兑换出的总量。如果已经发行，在一年后仍有未被兑现的总量，RMBT FUND有义务销毁待流通的token。每次增发，需要RMBT RESERVE BOARD的全体同意。因为每位理事都拥有一票否决权，且理事的人数大于3人，所以RMBT没有最终实际控制人。RMBT FUND 也是一个跨国的去中心化的组织。</p>
+<p>最初的发行会在ETH的ERC20合约，之后会在自主研发的跨链专用链上发行，它显著的功能，是要将BTC引入DeFi的可质押的世界，同时要将交易成本进一步降低到比ETH2.0还要低2-3个数量级，成为一个新的闪点网络。</p>
+<p>简单来说，RMBT是人民币世界的USDT，是中心化交易世界的DAI。未来会是链下金融的COMPOUND，也会是BTC、ETH、Libra、DECP之间的COSMOS，以及BTC世界的LIGHTING NETWORK。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<h2 id="1rmbt">1.	RMBT</h2>
-<figure data-type="image" tabindex="1"><img src="https://rmbtfund.github.io/post-images/1583827008746.png" alt="" loading="lazy"></figure>
-<p>RMBT，一个人民币稳定币，一种区块链通证（token），由RMBT FUND 发行。</p>
-<p>RMBT的全称是Recognize Mind Blockchain Token。这代表了RMBT FUND的世界观：token 反映了人们的心智。</p>
-<p>RMBT FUND 通过技术手段使得1枚RMBT的币值总是与市场上1元人民币所对应的购买力相当，保持固定的汇率。</p>
-<p>RMBT盯住人民币，是因为人民币有十几亿的实际用户，他们拥有以人民币计价的心理习惯，我们盯住人民币汇率，便于人民币本币假设的十几亿人拥有符合直觉的数字货币，便为了了解其他数字资产的多少和涨跌，在他们自己的脑海里建立概念。</p>
-<p>RMBT的底层资产将以数字资产为绝对重心，这并不是我们对实体资产没有信心，而是目前上没有广泛的区块链金融渗透度，来保证链下资产被重复发行和重复抵押，相对于去中心化金融，传统金融看起来都像是旁氏骗局，即便是运行了上百年的现代中央银行体系，也都是信用重复放大，并且受政府行政的摆布，民主制度也没有能力阻止美元的随意发行。</p>
-<p>经过近10年的发展，比特币和以太坊被验证是安全的。智能合约是安全的，存在于智能合约的代币没被攻破的概率机会为不可能。未来更多的金融交换将会在以太坊上进行，就如同大部分的飞机是自动驾驶的，未来大部分的汽车也是自动驾驶的，因为手动驾驶太随意，不安全，未来只能少数人在限定区域里去玩耍。当下的金融体系，就是手动的驾驶系统，虽然它眼下还是主流，但是去中心化金融，区块链，自动交易代表未来。</p>
-<p>RMBT的底层资产的配置将会是动态的，我们会定期披露所掌握数字资产的情况，最终达到实时的动态披露。<br>
-最初的资产将会多数是USDT和ETH，RMBT自主研发的跨链技术，未来将连接央行数字货币CECP和BTC资产，帮助数字资产低阻力的流动，充分反应人类社会的价值存储和创造。</p>
-<p>RMBT的发行规模将采取按需求发行的策略。每次增发额度，不超过预期未来一年内可以兑换出的总量。如果已经发行，在一年后仍有未被兑现的总量，RMBT FUND有义务销毁待流通的token。每次增发，需要RMBT RESERVE BOARD的全体同意。因为每位理事都拥有一票否决权，且理事的人数大于3人，所以RMBT没有最终实际控制人。</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RMBT 是个啥？]]></title>
-        <id>https://rmbtfund.github.io/post/rmbt-wen-ding-bi-ji-hua/</id>
-        <link href="https://rmbtfund.github.io/post/rmbt-wen-ding-bi-ji-hua/">
-        </link>
-        <updated>2020-03-10T04:56:52.000Z</updated>
         <content type="html"><![CDATA[<p>RMBT，一个人民币稳定币，一种区块链通证（token），由RMBT FUND 发行。</p>
 <p>RMBT的全称是Recognize Mind Blockchain Token。这代表了RMBT FUND的世界观：token 反映了人们的心智。</p>
 <p>RMBT FUND 通过技术手段使得1枚RMBT的币值总是与市场上1元人民币所对应的购买力相当，保持固定的汇率。</p>
@@ -409,6 +389,7 @@ MV=PT，费雪方程，是经济学界的质能方程，代表了货币的数量
 <p>RMBT的发行规模将采取按需求发行的策略。每次增发额度，不超过预期未来一年内可以兑换出的总量。如果已经发行，在一年后仍有未被兑现的总量，RMBT FUND有义务销毁待流通的token。每次增发，需要RMBT RESERVE BOARD的全体同意。因为每位理事都拥有一票否决权，且理事的人数大于3人，所以RMBT没有最终实际控制人。RMBT FUND 也是一个跨国的去中心化的组织。</p>
 <p>最初的发行会在ETH的ERC20合约，之后会在自主研发的跨链专用链上发行，它显著的功能，是要将BTC引入DeFi的可质押的世界，同时要将交易成本进一步降低到比ETH2.0还要低2-3个数量级，成为一个新的闪点网络。</p>
 <p>简单来说，RMBT是人民币世界的USDT，是中心化交易世界的DAI。未来会是链下金融的COMPOUND，也会是BTC、ETH、Libra、DECP之间的COSMOS，以及BTC世界的LIGHTING NETWORK。</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
