@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmbtfund.github.io</id>
     <title>RMBT FUND</title>
-    <updated>2020-06-28T08:13:25.543Z</updated>
+    <updated>2020-06-29T02:30:11.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rmbtfund.github.io"/>
     <link rel="self" href="https://rmbtfund.github.io/atom.xml"/>
@@ -11,12 +11,88 @@
     <icon>https://rmbtfund.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, RMBT FUND</rights>
     <entry>
-        <title type="html"><![CDATA[RMBT白皮书  剩余部分]]></title>
+        <title type="html"><![CDATA[RMBT白皮书  ]]></title>
         <id>https://rmbtfund.github.io/post/rmbt-bai-pi-shu-sheng-yu-bu-fen/</id>
         <link href="https://rmbtfund.github.io/post/rmbt-bai-pi-shu-sheng-yu-bu-fen/">
         </link>
         <updated>2020-06-28T04:04:48.000Z</updated>
-        <content type="html"><![CDATA[<p>类似港币盯住美元汇率的政策，RMBT盯住人民币，保证其内在价值和可流通性，保持起发行总量和其实际储备相当，通过领先的跨链技术保证其兑换的可实现和便利性，通过资产管理来保证有竞争力的利率和符合市场需要的利率调整空间。RMBT同时是一种由RMBT FUND所设置的投资组合，作为一种区块链世界的金融衍生品，它希望给持有人带来符合直觉的，符合人民币定价习惯的价值存储和支付符号。通过保守的资产配置，以及先进的技术手段，让稳定的货币作为基础，人们通过判断被定价的商品的价格和数量，使得符号概念回归描述和传播“是否有意义？”、“价值有多少？”的认知工具的基本功能，进而向识别人的心智，发现意识、思维、观念如何形成的研究做出有益铺垫。</p>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#1rmbt">1.	RMBT</a></li>
+<li><a href="#2rmbt-%E5%85%91%E6%8D%A2%E6%89%80">2.	RMBT 兑换所</a>
+<ul>
+<li><a href="#22-%E4%BA%A7%E5%93%81%E5%BD%A2%E6%80%81">2.2 产品形态</a></li>
+<li><a href="#23-%E6%89%8B%E7%BB%AD%E8%B4%B9">2.3 手续费</a></li>
+<li><a href="#24-%E6%B5%81%E5%8A%A8%E6%B1%A0">2.4 流动池</a></li>
+<li><a href="#25-%E8%87%AA%E5%8A%A8%E5%81%9A%E5%B8%82">2.5 自动做市</a></li>
+<li><a href="#26-%E7%94%9F%E6%80%81%E5%90%88%E4%BD%9C">2.6 生态合作</a></li>
+<li><a href="#27-%E7%BD%91%E7%BB%9C%E5%9C%B0%E5%9D%80">2.7 网络地址</a></li>
+<li><a href="#28-%E9%92%B1%E5%8C%85">2.8 钱包</a></li>
+</ul>
+</li>
+<li><a href="#3%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84">3.	组织架构</a></li>
+<li><a href="#4rmbt-%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98">4.	RMBT 解决的问题</a>
+<ul>
+<li><a href="#41%E7%AC%A6%E5%90%88%E7%9B%B4%E8%A7%89%E7%9A%84%E5%AE%9A%E4%BB%B7">4.1	符合直觉的定价</a></li>
+<li><a href="#42%E4%BA%BA%E6%B0%91%E5%B8%81%E5%9B%BD%E9%99%85%E5%8C%96">4.2	人民币国际化</a></li>
+<li><a href="#43%E6%AF%94%E7%89%B9%E5%B8%81%E5%B0%86%E6%8C%81%E7%BB%AD%E6%89%A9%E6%95%A3">4.3	比特币将持续扩散</a></li>
+</ul>
+</li>
+<li><a href="#5%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%92%8C%E8%B7%A8%E9%93%BE">5.	去中心化和跨链</a></li>
+<li><a href="#6%E9%A2%86%E5%85%88%E6%8A%80%E6%9C%AF">6.	领先技术</a>
+<ul>
+<li><a href="#61%E5%BA%95%E5%B1%82%E6%9E%84%E6%9E%B6%E7%AA%81%E7%A0%B4">6.1	底层构架突破</a></li>
+<li><a href="#62%E5%AE%89%E5%85%A8%E6%80%A7">6.2	安全性</a></li>
+<li><a href="#63%E9%AB%98%E6%80%A7%E8%83%BD">6.3	高性能</a></li>
+<li><a href="#64%E5%85%B1%E4%BA%AB%E6%B5%81%E9%87%8F">6.4	共享流量</a></li>
+</ul>
+</li>
+<li><a href="#7%E7%AA%81%E5%87%BA%E5%9C%B0%E4%BD%8D%E5%92%8C%E4%BD%9C%E7%94%A8">7.	突出地位和作用</a>
+<ul>
+<li><a href="#71%E6%A0%B8%E5%BF%83%E8%8A%82%E7%82%B9">7.1	核心节点</a></li>
+<li><a href="#72%E6%95%B0%E5%AD%97%E8%B5%84%E4%BA%A7%E5%9F%BA%E9%87%91%E9%94%80%E5%94%AE">7.2	数字资产基金销售</a></li>
+</ul>
+</li>
+<li><a href="#8%E5%8F%91%E8%A1%8C%E4%B8%8E%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86">8.	发行与资产管理</a>
+<ul>
+<li><a href="#81%E5%82%A8%E5%A4%87%E5%8F%91%E8%A1%8C">8.1	储备发行</a></li>
+<li><a href="#82%E6%8F%90%E4%BE%9B%E5%88%A9%E7%8E%87">8.2	提供利率</a></li>
+<li><a href="#83%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE">8.3	资产配置</a></li>
+</ul>
+</li>
+<li><a href="#9%E9%A1%BA%E5%BA%94%E6%BD%AE%E6%B5%81">9.	顺应潮流</a>
+<ul>
+<li><a href="#91%E7%A7%81%E6%9C%89%E5%8C%96">9.1	私有化</a></li>
+<li><a href="#92%E5%A4%9A%E6%A0%B7%E6%80%A7">9.2	多样性</a></li>
+<li><a href="#93%E6%99%BA%E8%83%BD">9.3	智能</a></li>
+</ul>
+</li>
+<li><a href="#10%E5%B1%95%E6%9C%9B">10.	展望</a>
+<ul>
+<li><a href="#101%E8%82%A1%E6%9D%83%E4%BA%A4%E6%98%93%E6%89%80">10.1	股权交易所</a></li>
+<li><a href="#102-%E6%AF%94%E7%89%B9%E5%B8%81%E9%9B%B6%E9%92%B1%E7%BD%91%E7%BB%9C">10.2	 比特币零钱网络</a></li>
+</ul>
+</li>
+<li><a href="#11%E8%91%A3%E4%BA%8B%E5%8F%8A%E9%A1%BE%E9%97%AE">11.	董事及顾问</a></li>
+<li><a href="#12%E5%95%86%E4%B8%9A%E8%A7%84%E5%88%92">12.	商业规划</a></li>
+</ul>
+</li>
+<li><a href="#13%E7%9B%B8%E7%BA%A6">13.	相约</a></li>
+</ul>
+</p>
+<h2 id="1rmbt">1.	RMBT</h2>
+<figure data-type="image" tabindex="1"><img src="https://rmbtfund.github.io/post-images/1583827008746.png" alt="" loading="lazy"></figure>
+<p>RMBT，一个人民币稳定币，一种区块链通证（token），由RMBT FUND 发行。</p>
+<p>RMBT的全称是Recognize Mind Blockchain Token。这代表了RMBT FUND的世界观：token 反映了人们的心智。</p>
+<p>RMBT FUND 通过技术手段使得1枚RMBT的币值总是与市场上1元人民币所对应的购买力相当，保持固定的汇率。</p>
+<p>RMBT盯住人民币，是因为人民币有十几亿的实际用户，他们拥有以人民币计价的心理习惯，我们盯住人民币汇率，便于人民币本币假设的十几亿人拥有符合直觉的数字货币，便为了了解其他数字资产的多少和涨跌，在他们自己的脑海里建立概念。</p>
+<p>RMBT的底层资产将以数字资产为绝对重心，这并不是我们对实体资产没有信心，而是目前上没有广泛的区块链金融渗透度，来保证链下资产被重复发行和重复抵押，相对于去中心化金融，传统金融看起来都像是旁氏骗局，即便是运行了上百年的现代中央银行体系，也都是信用重复放大，并且受政府行政的摆布，民主制度也没有能力阻止美元的随意发行。</p>
+<p>经过近10年的发展，比特币和以太坊被验证是安全的。智能合约是安全的，存在于智能合约的代币没被攻破的概率机会为不可能。未来更多的金融交换将会在以太坊上进行，就如同大部分的飞机是自动驾驶的，未来大部分的汽车也是自动驾驶的，因为手动驾驶太随意，不安全，未来只能少数人在限定区域里去玩耍。当下的金融体系，就是手动的驾驶系统，虽然它眼下还是主流，但是去中心化金融，区块链，自动交易代表未来。</p>
+<p>RMBT的底层资产的配置将会是动态的，我们会定期披露所掌握数字资产的情况，最终达到实时的动态披露。<br>
+最初的资产将会多数是USDT和ETH，RMBT自主研发的跨链技术，未来将连接央行数字货币CECP和BTC资产，帮助数字资产低阻力的流动，充分反应人类社会的价值存储和创造。</p>
+<p>RMBT的发行规模将采取按需求发行的策略。每次增发额度，不超过预期未来一年内可以兑换出的总量。如果已经发行，在一年后仍有未被兑现的总量，RMBT FUND有义务销毁待流通的token。每次增发，需要RMBT RESERVE BOARD的全体同意。因为每位理事都拥有一票否决权，且理事的人数大于3人，所以RMBT没有最终实际控制人。</p>
+<p>类似港币盯住美元汇率的政策，RMBT盯住人民币，保证其内在价值和可流通性，保持起发行总量和其实际储备相当，通过领先的跨链技术保证其兑换的可实现和便利性，通过资产管理来保证有竞争力的利率和符合市场需要的利率调整空间。RMBT同时是一种由RMBT FUND所设置的投资组合，作为一种区块链世界的金融衍生品，它希望给持有人带来符合直觉的，符合人民币定价习惯的价值存储和支付符号。通过保守的资产配置，以及先进的技术手段，让稳定的货币作为基础，人们通过判断被定价的商品的价格和数量，使得符号概念回归描述和传播“是否有意义？”、“价值有多少？”的认知工具的基本功能，进而向识别人的心智，发现意识、思维、观念如何形成的研究做出有益铺垫。</p>
 <p>RMBT的底层资产代表了一种对未来货币的判断，它包含50%的人民币，30%的BTC，20%的USDT。50%的法币，50%的区块链代币。流动性依靠更高性能的区块链代币而不是法币。收益性靠经济高增长的中国的人民币而不是区块链代币或是过量发行的美元。区块链代币，也需要法币的利率和共识基础来为更多的新币种的组合做支撑。RMBT做为民间的数字货币，看好人民币的前景，帮助区块链金融世界配置人民币资产，提供一种通道，帮助人民币国际化，实现人民币应有的国际影响，为随时可能到来的货币制裁，提供备选通道。</p>
 <p>RMBT筹划自2018年，技术准备和成熟在年2019年，正式发布会在2020年，累计已经有数十人价值上千万的研发铺垫。我们是原生于中国民间的数字货币，对标美国的Libra和USDT，Libra出现在2019年，它包含了50%的美元，30%的欧元，20%的其他法币，不包含人民币，美国政府至今仍未对其放行。USDT是创业公司Tether的作品，它对应美元，保证金不足，也没有利率，但是仍然快速发展。RMBT初始阶段就会跟USDT保持可兑换，在未来将和Libra进行兑换和竞争。RMBT也将和央行数字货币DECP保持1:1兑换，根据目前的了解DECP不包含利率，RMBT比DECP有利率优势。区别于发明新语言的Libra，RMBT选择支持生态成熟的ETH和更前沿的跨链技术。区别与央行数字货币的类似于局域网的联盟链技术，RMBT选择开源的去中心化公链技术，并主动研发专用公链和保持自动跨链。</p>
 <p>红蓝色取自人民币纸币的色彩元素，也代表了一种配色原理，1份红色+1份蓝色=2份紫色，紫色可以被拿去直接使用，也可以被用于添加到各种颜色中变成其他想要的颜色，我们支持未来一些不具备足够经济规模的国家，直接使用RMBT作为流通货币，或者以RMBT为抵押发行他们自己的有公信力的数字货币。</p>
@@ -67,7 +143,7 @@ RMBT已经开发了独立的钱包系统，具备跨链功能。也接纳未来�
 <h2 id="3组织架构">3.	组织架构</h2>
 <p>RMBT FUND 是注册在美国的华盛顿州的有限责任公司。<br>
 RMBT FUND是RMBT的发行单位。同时是授权交易所运营的品牌持有人。</p>
-<figure data-type="image" tabindex="1"><img src="https://rmbtfund.github.io/post-images/1583854977519.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://rmbtfund.github.io/post-images/1583854977519.png" alt="" loading="lazy"></figure>
 <p>其股东和权利现状：<br>
 3.1	大股东是注册在中国的技术公司“北京心智识别科技有限公司”，拥有超过60%的收益权，没有表决权。该公司是注册在英国的RMBT ESOP LTD的全资子公司，ESOP（Employee Stock Ownership Plans）是员工持股平台。<br>
 3.2	100%的表决权在RMBT RESERVE BOARD,是一家离岸注册的有限责任公司，拥有100%的表决权，和超过20%的收益权。目前有多位董事会成员，不设董事长。<br>
@@ -78,17 +154,17 @@ RMBT FUND是RMBT的发行单位。同时是授权交易所运营的品牌持有�
 <p>我们为什么要发明RMBT，出于以下的考虑：</p>
 <h3 id="41符合直觉的定价">4.1	符合直觉的定价</h3>
 <p>我们看到中国3大数字资产交易所，对BTC的报价，仍然采取USDT。然而主要的用户都是使用汉字的中国人，随着人民币兑美元的汇率波动，对比特币的涨跌，人们无法得到一个符合直觉的结果，还需要转换汇率才知道自己的真实盈亏。在会计原理中有一个最基本的“本币假设”，针对经常使用人民币的用户，他们需要一个和人民币等价的稳定币，作为中心参照物，来衡量其他数字资产的涨跌和以此持仓带来的盈亏。</p>
-<figure data-type="image" tabindex="2"><img src="https://rmbtfund.github.io/post-images/1583855288352.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://rmbtfund.github.io/post-images/1583855288352.png" alt="" loading="lazy"></figure>
 <p>同样简单的逻辑，使得Tether（美国私人公司）发行的USDT（美元稳定币）从14年的25.16万美金发行规模，达到今天的超过40亿美金，成为60%以上的比特币交易代币，中国影响力较大的火币、币安等，都在使用USDT报价。未来至少在人民币为主要使用人群的主体中，人民币稳定币必然会有一席之地。</p>
 <h3 id="42人民币国际化">4.2	人民币国际化</h3>
 <p>美国的名义国内生产总值在06-01-2019达5.3万亿美元。</p>
-<figure data-type="image" tabindex="3"><img src="https://rmbtfund.github.io/post-images/1583855309511.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://rmbtfund.github.io/post-images/1583855309511.png" alt="" loading="lazy"></figure>
 <p>美国的货币供应M2在07-01-2019达14.87万亿美元。</p>
-<figure data-type="image" tabindex="4"><img src="https://rmbtfund.github.io/post-images/1583855318537.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://rmbtfund.github.io/post-images/1583855318537.png" alt="" loading="lazy"></figure>
 <p>中国的名义国内生产总值在06-01-2019达3.48万亿美元。</p>
-<figure data-type="image" tabindex="5"><img src="https://rmbtfund.github.io/post-images/1583855329152.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://rmbtfund.github.io/post-images/1583855329152.png" alt="" loading="lazy"></figure>
 <p>中国的货币供应 M2在07-01-2019达191万亿人民币，按照7月1日汇率6.87计，相当于27.8万亿美元。</p>
-<figure data-type="image" tabindex="6"><img src="https://rmbtfund.github.io/post-images/1583855338420.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://rmbtfund.github.io/post-images/1583855338420.png" alt="" loading="lazy"></figure>
 <p>由此可见，中国的GDP占美国的65%，而货币发行量是美国的1.86倍。人民币的国际影响力和其国际经贸中的地位极其不匹配。人民币外部市场极度不发育。美元的本土以外的流通量，就是M3或者M4，在2015年估计就有100万亿美元的规模，比如中国--不含港澳台就持有超过3万多亿美元的外汇储备。而人民币的境外流通量，只有1万亿人民币，相差3个数量级。这是不可能长期持续的局面。</p>
 <p>中国近30年来的GDP增速均超过美国，世界经济政治格局处于巨大的不平衡中，尤其是旧的平衡下的旧格局，是西方主导的IMF和SWIFT系统，仍然是中心化的，它的结构陈旧，不利于各国央行之间自由选择其他央行资产的头寸，同时它被冠上诸多人权、汇率操纵、碳排放等等要求，被意识形态化和政治化，人民币不可能成为这个体系的核心。</p>
 <p>在次贷危机后，中国贡献了全球经济增长的35%，19年上半年，中国已经成为世界经贸领域第一大国，超过了美国，而在现行世界货币俱乐部中，几乎没有任何发言权，这只会意味着新的俱乐部即将开张。</p>
@@ -101,7 +177,7 @@ RMBT的流通，提高了可信度，降低了摩擦成本，使更多的人更�
 各个数字货币在总市值中占比图</p>
 <p>比特币目前的总市值相当于1800亿美元，2018年全年交易额约2万亿美元，而传统外汇市场每天交易额每天约1万亿美元。<br>
 比特币是已经被市场验证的受欢迎的数字资产，数字资产交易所、矿机、钱包、二层闪电网络，使得比特币的使用场景和性能都在提升，比特币用户的网络效应，带动整个生态持续成长，距离可以想象的天花板还相当遥远。</p>
-<figure data-type="image" tabindex="7"><img src="https://rmbtfund.github.io/post-images/1583904141648.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://rmbtfund.github.io/post-images/1583904141648.png" alt="" loading="lazy"></figure>
 <p>2017年9月4日，中国政府收回所有境内经营交易所的合法授权，如上图竖线所示，比特币应声下跌，之后的几个月比特币并没有消失，反而从4000美元涨到了19000美元。中国的政府不允许Facebook、Twitter、Google、Youtube、Wikipedia的登陆，但是不能关闭这些网站。美国政府可以关闭这些网站，可是美国政府和中国政府，都无法关闭分布式存在的比特币网络，因为财产权属于个人权利，国家也是来自个人权利，除非所有人都不喜欢比特币，比特币才会消失，但是只要有强权想控制别人财产的念头存在，比特币就不会消失，因为它是有数学律法的保证，工作量证明-Proof Of Work的算法已经被普遍接受。</p>
 <p><img src="https://rmbtfund.github.io/post-images/1583904152433.png" alt="" loading="lazy"><br>
 12寸晶圆上可以承载超过4万只7纳米工艺的挖矿ASIC芯片</p>
@@ -121,7 +197,7 @@ RMBT的流通，提高了可信度，降低了摩擦成本，使更多的人更�
 <p>CC-Bridge超强特性来自CCDEX公链全新设计</p>
 <p>在意识到中心化交易所潜藏的巨大风险之后，有很多交易所开始利用既有公链做区中心化交易所-DEX。但是几乎全部的公链都是为了支持通用的DAPP而设计的，这使得交易所性能受限、交易成本高企。</p>
 <p>在没有跨链技术之前，如果一个用户想要持有比特币和以太坊，他要下载两个钱包，比特币无法付到以太坊钱包里去，那么实际的操作，就需要数字货币作为中间介质，比如比特币换成法币，再用法币买入以太坊，再转账。这是一个繁琐，有技术难度和汇率风险的连续操作。跨链技术使得不同公链上的数字货币，通过交易协议，在自动清算中完成交易。</p>
-<figure data-type="image" tabindex="8"><img src="https://rmbtfund.github.io/post-images/1590159142762.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://rmbtfund.github.io/post-images/1590159142762.png" alt="" loading="lazy"></figure>
 <p>在没有可用的跨链技术支撑的时候，我们看到USDT为了保持和各种主流货币的可兑付关系，就需要在不同的公链上发行不同的币，那么它必然要为这些币来支付交易成本，而传统公链的交易成本都非常高，因此维持这些交易的手续费-GAS费，就会要求USDT持有各种公链代币，但是公链代币本身也有大幅贬值的可能，因此在大量交易后，USDT可能空心化成为庞氏骗局。</p>
 <p>相比之下，RMBT只需要在CC-Bridge发行一种币，可以跟所有主流币直接兑换，钱包犹如有多个位置的钱夹，可以存放多种数字资产，我们只需要保持和法币的承兑，不需要在同的链之间调整头寸。</p>
 <h2 id="6领先技术">6.	领先技术</h2>
@@ -154,7 +230,7 @@ MPC是姚期智先生发明的理论并因此获得图灵奖，是一种开源�
 <p>由于公链的卓越性能和低成本，交易所计划对RMBT相关的交易对终身免费。首期开放的交易对，有RMBT/BTC，RBMT/ETH等。</p>
 <p>由于手续费较低，交易安全性提高，对于吸收机构投资者，尤其是高频交易、量化交易、自动交易的交易员会产生良好的吸引力，对提升交易所排名有积极作用。<br>
 由于公链的性能，使得我们自身的交易成本极低，大约每10万笔交易5美金，跟金额无关，因此交易所计划象淘宝在电商领域率先免费一样，第一家把数字资产交易免费，并将为链上的所有的RMBT对价的交易对支付交易费用，让RMBT为各种资产进行定价。</p>
-<figure data-type="image" tabindex="9"><img src="https://rmbtfund.github.io/post-images/1583904296163.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="https://rmbtfund.github.io/post-images/1583904296163.png" alt="" loading="lazy"></figure>
 <p>以9月9日为例，火币全球站的日交易额超过400亿人民币，而上海交易所的交易额超过2800亿人民币。最负盛名的交易所已经开业200年，收获了最优质的上市公司，数字资产交易所才刚刚开始。只要交易所的便利性能够支持到创新，并且分享到创新的收益，能让投资人赚到钱，最终都能成长为有影响力的平台。</p>
 <h3 id="72数字资产基金销售">7.2	数字资产基金销售</h3>
 <p>在积累了足够的机构投资者之后，其收益率可以得到公正的显示和公开。因此对这些优秀的资产管理者和程序员，交易所将引导他们成为基金管理人，通过代理募资获得新的盈利空间。同时良好的基金收益，将有益于进一步带动小白投资人开户，购买RMBT，投资RMBT的交易对。</p>
@@ -162,7 +238,7 @@ MPC是姚期智先生发明的理论并因此获得图灵奖，是一种开源�
 <h2 id="8发行与资产管理">8.	发行与资产管理</h2>
 <h3 id="81储备发行">8.1	储备发行</h3>
 <p>RMBT的发行机制是储备发行，按需求投放。受制于目前的技术条件，还做不到按需实时发行，我们每次发行一定数量的RMBT作为储备，按照市场需求逐渐投放和赎回。RMBT只针对数字货币进行自动化承兑，没有发行空气币欺骗投资人的风险。整个流程不成熟的风险点都在内部可控，外部合作我们选择成熟的公链、交易所和银行，不去冒不合法不合规的风险。</p>
-<figure data-type="image" tabindex="10"><img src="https://rmbtfund.github.io/post-images/1590214540983.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="11"><img src="https://rmbtfund.github.io/post-images/1590214540983.png" alt="" loading="lazy"></figure>
 <h3 id="82提供利率">8.2	提供利率</h3>
 <p>利率是货币的内在价值。RMBT将会成为第一个带有利率的稳定币。由于中国的经济发展处于世界前列，因此存贷款利率长期处于高利率区间。这就为RMBT的无风险套利提供了空间。</p>
 <p>RMBT FUND通过境内员工持股公司直接在境内银行做法币存款，将出售RMBT获得的法币现金在银行进行协议存款，目前在民生银行的询价7天通知存款的利息就高达2.2%，将这部分利息分配给RMBT用户，将会对美国、日本等低利率国家的储户产生巨大的吸引力，吸引境外用户通过BTC和USDT购买RMBT，通过持有RMBT赚取利息。RMBT承诺永远不会为了增发货币而提供超过自己能够得到的那部分利息收入。</p>
@@ -212,7 +288,7 @@ Mr. Gao  部队院校密码学博士，商品期货交易所，创业。<br>
 Mr. Andy  211金融本硕，500强，多次创业，投资。</p>
 <h2 id="12商业规划">12.	商业规划</h2>
 <p>规划由董事会作出，并保留有所调整的权利，招股意向不代表任何对赌、承诺和合同要约。</p>
-<figure data-type="image" tabindex="11"><img src="https://rmbtfund.github.io/post-images/1584597152542.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="12"><img src="https://rmbtfund.github.io/post-images/1584597152542.png" alt="" loading="lazy"></figure>
 <p>12.1	合伙人自筹种子轮资金，初步用于设计LOGO、网站美工、成立公司、开立账户、锁定技术解决方案，开启*百万天使轮融资。</p>
 <p>12.2	天使轮计划招募n名全职员工，在孵化器设立办公室，订立公司的基本治理框架、RMBT推广到站外第三方交易所，开立RMBT兑换所，完成RMBT初始发行，线下存款，返回利率的闭环流程，招募*千万人民币以上的基石投资者，数百名alpha用户。RMBT发行规模达到1亿元，开启以n亿左右估值A轮融资。</p>
 <p>12.3	核心创始人开始全职进入公司，不能进入则需要吸收全职运营主管进入董事会。租用独立办公室，员工扩大到20-50人，开启独角兽股权交易和零钱网络搭建，市值超过n亿RMBT，超过1000名高净值客户，交易所手续费、上币费收入、RMBT浮存资金产生盈余，发行规模达到n亿元，开始n亿估值进行B轮融资。</p>
@@ -317,22 +393,12 @@ MV=PT，费雪方程，是经济学界的质能方程，代表了货币的数量
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RMBT 稳定币计划]]></title>
+        <title type="html"><![CDATA[RMBT 是个啥？]]></title>
         <id>https://rmbtfund.github.io/post/rmbt-wen-ding-bi-ji-hua/</id>
         <link href="https://rmbtfund.github.io/post/rmbt-wen-ding-bi-ji-hua/">
         </link>
         <updated>2020-03-10T04:56:52.000Z</updated>
-        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
-<li>
-<ul>
-<li><a href="#1rmbt">1.	RMBT</a></li>
-</ul>
-</li>
-</ul>
-</p>
-<h2 id="1rmbt">1.	RMBT</h2>
-<figure data-type="image" tabindex="1"><img src="https://rmbtfund.github.io/post-images/1583827008746.png" alt="" loading="lazy"></figure>
-<p>RMBT，一个人民币稳定币，一种区块链通证（token），由RMBT FUND 发行。</p>
+        <content type="html"><![CDATA[<p>RMBT，一个人民币稳定币，一种区块链通证（token），由RMBT FUND 发行。</p>
 <p>RMBT的全称是Recognize Mind Blockchain Token。这代表了RMBT FUND的世界观：token 反映了人们的心智。</p>
 <p>RMBT FUND 通过技术手段使得1枚RMBT的币值总是与市场上1元人民币所对应的购买力相当，保持固定的汇率。</p>
 <p>RMBT盯住人民币，是因为人民币有十几亿的实际用户，他们拥有以人民币计价的心理习惯，我们盯住人民币汇率，便于人民币本币假设的十几亿人拥有符合直觉的数字货币，便为了了解其他数字资产的多少和涨跌，在他们自己的脑海里建立概念。</p>
@@ -340,7 +406,9 @@ MV=PT，费雪方程，是经济学界的质能方程，代表了货币的数量
 <p>经过近10年的发展，比特币和以太坊被验证是安全的。智能合约是安全的，存在于智能合约的代币没被攻破的概率机会为不可能。未来更多的金融交换将会在以太坊上进行，就如同大部分的飞机是自动驾驶的，未来大部分的汽车也是自动驾驶的，因为手动驾驶太随意，不安全，未来只能少数人在限定区域里去玩耍。当下的金融体系，就是手动的驾驶系统，虽然它眼下还是主流，但是去中心化金融，区块链，自动交易代表未来。</p>
 <p>RMBT的底层资产的配置将会是动态的，我们会定期披露所掌握数字资产的情况，最终达到实时的动态披露。<br>
 最初的资产将会多数是USDT和ETH，RMBT自主研发的跨链技术，未来将连接央行数字货币CECP和BTC资产，帮助数字资产低阻力的流动，充分反应人类社会的价值存储和创造。</p>
-<p>RMBT的发行规模将采取按需求发行的策略。每次增发额度，不超过预期未来一年内可以兑换出的总量。如果已经发行，在一年后仍有未被兑现的总量，RMBT FUND有义务销毁待流通的token。每次增发，需要RMBT RESERVE BOARD的全体同意。因为每位理事都拥有一票否决权，且理事的人数大于3人，所以RMBT没有最终实际控制人。</p>
+<p>RMBT的发行规模将采取按需求发行的策略。每次增发额度，不超过预期未来一年内可以兑换出的总量。如果已经发行，在一年后仍有未被兑现的总量，RMBT FUND有义务销毁待流通的token。每次增发，需要RMBT RESERVE BOARD的全体同意。因为每位理事都拥有一票否决权，且理事的人数大于3人，所以RMBT没有最终实际控制人。RMBT FUND 也是一个跨国的去中心化的组织。</p>
+<p>最初的发行会在ETH的ERC20合约，之后会在自主研发的跨链专用链上发行，它显著的功能，是要将BTC引入DeFi的可质押的世界，同时要将交易成本进一步降低到比ETH2.0还要低2-3个数量级，成为一个新的闪点网络。</p>
+<p>简单来说，RMBT是人民币世界的USDT，是中心化交易世界的DAI。未来会是链下金融的COMPOUND，也会是BTC、ETH、Libra、DECP之间的COSMOS，以及BTC世界的LIGHTING NETWORK。</p>
 ]]></content>
     </entry>
     <entry>
