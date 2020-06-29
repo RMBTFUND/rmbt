@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmbtfund.github.io</id>
     <title>RMBT FUND</title>
-    <updated>2020-06-29T09:02:25.518Z</updated>
+    <updated>2020-06-29T09:24:45.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rmbtfund.github.io"/>
     <link rel="self" href="https://rmbtfund.github.io/atom.xml"/>
@@ -375,7 +375,7 @@ MV=PT，费雪方程，是经济学界的质能方程，代表了货币的数量
 <p>RMBT的底层资产的配置将会是动态的，我们会定期披露所掌握数字资产的情况，最终达到实时的动态披露。<br>
 最初的资产将会多数是USDT和ETH，RMBT自主研发的跨链技术，未来将连接央行数字货币CECP和BTC资产，帮助数字资产低阻力的流动，充分反应人类社会的价值存储和创造。</p>
 <p>RMBT的发行规模将采取按需求发行的策略。每次增发额度，不超过预期未来一年内可以兑换出的总量。如果已经发行，在一年后仍有未被兑现的总量，RMBT FUND有义务销毁待流通的token。每次增发，需要RMBT RESERVE BOARD的全体同意。因为每位理事都拥有一票否决权，且理事的人数大于3人，所以RMBT没有最终实际控制人。RMBT FUND 也是一个跨国的去中心化的组织。</p>
-<p>最初的发行会在ETH的ERC20合约，之后会在自主研发的跨链专用链上发行，它显著的功能，是要将BTC引入DeFi的可质押的世界，同时要将交易成本进一步降低到比ETH2.0还要低2-3个数量级，成为一个新的闪点网络。</p>
+<p>最初的发行会在ETH的ERC20合约，之后会在自主研发的跨链专用链上发行，它显著的功能，是要将BTC引入DeFi的可质押的世界，同时要将交易成本进一步降低到比ETH2.0还要低2-3个数量级，成为一个新的闪电网络。</p>
 <p>简单来说，RMBT是人民币世界的USDT，是中心化交易世界的DAI。未来会是链下金融的COMPOUND，也会是BTC、ETH、Libra、DECP之间的COSMOS，以及BTC世界的LIGHTING NETWORK。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>RMBT，一个人民币稳定币，一种区块链通证（token），由RMBT FUND 发行。</p>
@@ -387,7 +387,7 @@ MV=PT，费雪方程，是经济学界的质能方程，代表了货币的数量
 <p>RMBT的底层资产的配置将会是动态的，我们会定期披露所掌握数字资产的情况，最终达到实时的动态披露。<br>
 最初的资产将会多数是USDT和ETH，RMBT自主研发的跨链技术，未来将连接央行数字货币CECP和BTC资产，帮助数字资产低阻力的流动，充分反应人类社会的价值存储和创造。</p>
 <p>RMBT的发行规模将采取按需求发行的策略。每次增发额度，不超过预期未来一年内可以兑换出的总量。如果已经发行，在一年后仍有未被兑现的总量，RMBT FUND有义务销毁待流通的token。每次增发，需要RMBT RESERVE BOARD的全体同意。因为每位理事都拥有一票否决权，且理事的人数大于3人，所以RMBT没有最终实际控制人。RMBT FUND 也是一个跨国的去中心化的组织。</p>
-<p>最初的发行会在ETH的ERC20合约，之后会在自主研发的跨链专用链上发行，它显著的功能，是要将BTC引入DeFi的可质押的世界，同时要将交易成本进一步降低到比ETH2.0还要低2-3个数量级，成为一个新的闪点网络。</p>
+<p>最初的发行会在ETH的ERC20合约，之后会在自主研发的跨链专用链上发行，它显著的功能，是要将BTC引入DeFi的可质押的世界，同时要将交易成本进一步降低到比ETH2.0还要低2-3个数量级，成为一个新的闪电网络。</p>
 <p>简单来说，RMBT是人民币世界的USDT，是中心化交易世界的DAI。未来会是链下金融的COMPOUND，也会是BTC、ETH、Libra、DECP之间的COSMOS，以及BTC世界的LIGHTING NETWORK。</p>
 <!-- more -->
 ]]></content>
