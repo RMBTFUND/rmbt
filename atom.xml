@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmbtfund.github.io</id>
     <title>RMBT FUND</title>
-    <updated>2020-06-30T14:30:56.849Z</updated>
+    <updated>2020-06-30T14:32:24.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rmbtfund.github.io"/>
     <link rel="self" href="https://rmbtfund.github.io/atom.xml"/>
@@ -16,6 +16,19 @@
         <link href="https://rmbtfund.github.io/post/rmbt-bai-pi-shu-sheng-yu-bu-fen/">
         </link>
         <updated>2020-06-28T04:04:48.000Z</updated>
+        <summary type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#0-%E5%BC%95%E8%A8%80-%E5%82%85%E7%AB%8B%E5%8F%B6%E5%8F%98%E6%8D%A2">0. 引言 -- 傅立叶变换</a></li>
+</ul>
+</li>
+</ul>
+</p>
+<h2 id="0-引言-傅立叶变换">0. 引言 -- 傅立叶变换</h2>
+<p>我们每天看到股市，指数在涨涨跌跌，形成一个波的形态。而这其中包含了几千家上市公司，每家公司可能又有千百位员工，他们每天的每一次心跳也都是波，这些波都整合起来，都可以用时间和对应的涨落来描述出来。人脑中的800多亿个神经元，每一个念头，都有脉冲信号，在拥挤的脑壳中，形成意识，每个人的意识，也都在通过语言、文化、金融来进行记录和传播。资本主义为何能够流行，在于它能够把复杂的信息，整顿成一个波，一个金钱衡量的波，一个GDP衡量的波，一个汇率衡量的波，可以快速的进行丰富的信息表达，用以辨识个人的影响力、城市的发展前景和国家的综合实力。<br>
+<img src="https://rmbtfund.github.io/post-images/1590199564095.gif" alt="" loading="lazy"><br>
+因此我们可以推断，未来世界的政治、经济会不可避免的走向统一，文明向更高纬度迈进，文化才能多元融合，互联网、通讯网、物联网，最后都是一张网。未来的货币是数字货币，是能够将不同的局域网融合成相互连通的价值网，才是人所想要。在未来这张复杂的信号网络中，人们可能会需要一个历经高速长久传递也不会中止走样的载体，区块链token可能是我们遇到的最佳选择。</p>
+]]></summary>
         <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
 <li>
 <ul>
@@ -86,6 +99,7 @@
 <p>我们每天看到股市，指数在涨涨跌跌，形成一个波的形态。而这其中包含了几千家上市公司，每家公司可能又有千百位员工，他们每天的每一次心跳也都是波，这些波都整合起来，都可以用时间和对应的涨落来描述出来。人脑中的800多亿个神经元，每一个念头，都有脉冲信号，在拥挤的脑壳中，形成意识，每个人的意识，也都在通过语言、文化、金融来进行记录和传播。资本主义为何能够流行，在于它能够把复杂的信息，整顿成一个波，一个金钱衡量的波，一个GDP衡量的波，一个汇率衡量的波，可以快速的进行丰富的信息表达，用以辨识个人的影响力、城市的发展前景和国家的综合实力。<br>
 <img src="https://rmbtfund.github.io/post-images/1590199564095.gif" alt="" loading="lazy"><br>
 因此我们可以推断，未来世界的政治、经济会不可避免的走向统一，文明向更高纬度迈进，文化才能多元融合，互联网、通讯网、物联网，最后都是一张网。未来的货币是数字货币，是能够将不同的局域网融合成相互连通的价值网，才是人所想要。在未来这张复杂的信号网络中，人们可能会需要一个历经高速长久传递也不会中止走样的载体，区块链token可能是我们遇到的最佳选择。</p>
+<!-- more -->
 <h2 id="1rmbt">1.	RMBT</h2>
 <figure data-type="image" tabindex="1"><img src="https://rmbtfund.github.io/post-images/1583827008746.png" alt="" loading="lazy"></figure>
 <p>RMBT，一个人民币稳定币，一种区块链通证（token），由RMBT FUND 发行。</p>
