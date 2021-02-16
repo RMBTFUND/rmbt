@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmbtfund.github.io</id>
     <title>RMBT FUND</title>
-    <updated>2021-02-16T08:56:58.131Z</updated>
+    <updated>2021-02-16T08:58:22.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rmbtfund.github.io"/>
     <link rel="self" href="https://rmbtfund.github.io/atom.xml"/>
@@ -452,6 +452,16 @@ AMM自动做市机制，可以让智能合约中的token来共同为交易对手
 <p>如果您有战略资源，请直接联系我们，如果有成功的合作基础，我们会考虑是否接受您的投资。<br>
 如果您是纯粹的财务投资人，请寻找区块链专业的投资管理人跟我们联系，在ICO之前，我们不打算接待非机构投资人。</p>
 <p>winlooser@gmail.com</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to RMBT]]></title>
+        <id>https://rmbtfund.github.io/post/hello-gridea/</id>
+        <link href="https://rmbtfund.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>RMBT was created as a stable currency for RMB(CNY) by RMBT FUND Inc in 2019.</p>
+<p>RMBT FUND, as a limited company registered under the laws of the Washington State of United States, It responsible for maintaining the exchange relationship and exchange rate between RMBT and mainstream cryptocurrency.</p>
 ]]></content>
     </entry>
 </feed>
